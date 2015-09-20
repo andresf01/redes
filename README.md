@@ -1,5 +1,4 @@
 #Redes
 ##Integrantes
-Andres Felipe Martinez
-
-Camilo Ruiz Casanova
+* Andres Felipe Martinez  
+* Camilo Ruiz Casanova
